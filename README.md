@@ -4,12 +4,12 @@ Hi ! 🐟 My name is Mamon :D
 (Manuchaya Chankhamhaengdecha)
 ------------------------------
 
-Started learning coding seriously in 2022 solely because of cool anime hacker characters XD but I actually do love dev stuff! Pretty experienced in programming currently interested in ML and data science.
+Started learning coding seriously in 2022 because of cool anime hacker characters XD but I actually do love dev stuff! Pretty experienced in programming currently interested in ML and data science.
 
-* 🌍  I'm based in Thailand and Canada
+* 🌍  I'm based in Thailand and China (SJTU)
 * ✉️  You can contact me at [mncyay111@gmail.com](mailto:mncyay111@gmail.com)
 * 🤝  I'm open to collaborating on any cool projects hmu!!
-* ⚡  I'm actually a sunfish who pretends to be a human but keep this a secret
+* ⚡  I like the mola mola fish
 
 <a href="https://www.github.com/Monobytee" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Monobytee?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
